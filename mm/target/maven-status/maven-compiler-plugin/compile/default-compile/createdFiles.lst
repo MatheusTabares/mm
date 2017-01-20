@@ -1,0 +1,3 @@
+br\com\mastermenu\entidades\Item.class
+br\com\mastermenu\config\AppConfig.class
+br\com\mastermenu\service\ItemService.class
